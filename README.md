@@ -9,7 +9,7 @@ This is a simple yet functional Python-based API to **control access to a local 
 - 💳 Token/credit system for usage control
 - 🧠 Works with `ollama`-hosted models like `mistral`
 - 📦 Lightweight and dependency-minimal
-
+ 
 ---
 
 ## 🛠️ Requirements
